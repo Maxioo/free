@@ -1,0 +1,13 @@
+[project]
+name = "free"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11,<3.13"
+dependencies = [
+    "langchain>=0.3.23",
+    "langgraph>=0.3.31",
+    "litellm>=1.67.0",
+    "mem0ai>=0.1.98",
+    "memobase>=0.0.17",
+]
